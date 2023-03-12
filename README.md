@@ -7,3 +7,7 @@ By using the basis of the game creating it with python and making it a single pl
 What I could add next to this project would be by making on a website with animations and sound effects to make it more vissaully attracive. Adding a variety of ship types with different sizes a carrier(5 squares), battleship(4 squares), cruiser(3 squares), submarine(3 squares) and destroyer(2 sqyares). This would mean i could also incase the size of the grid and turns allowed for the game. If I wanted to make the game more advanced I could impleament a scoring system that rewards the player for sinking enemy ships and penailzes them for missing shots along with a multiple difficulty levels for the computer opponent (easy, medium and hard).
 
 How I could have improved my project. I found some diffuclutie in making the ships bigger in size which lead to me only have one square sized ships on the grid, this makes it a little bit harder to find the hidden ship on the board and within a limit of ten turns it can be difficult to complete a game cycle.
+
+soruces used to help:
+https://discuss.codecademy.com/t/excellent-battleship-game-written-in-python/430605
+https://www.youtube.com/watch?v=tF1WRCrd_HQ&ab_channel=KnowledgeMavens
