@@ -10,4 +10,3 @@ How I could have improved my project. I found some diffuclutie in making the shi
 
 soruces used to help:
 https://discuss.codecademy.com/t/excellent-battleship-game-written-in-python/430605
-https://www.youtube.com/watch?v=tF1WRCrd_HQ&ab_channel=KnowledgeMavens
